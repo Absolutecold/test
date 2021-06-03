@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="taglibs-standard-impl-1.2.5">
+    <CLASSES>
+      <root url="jar://D:/sqljar/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://D:/sqljar/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
